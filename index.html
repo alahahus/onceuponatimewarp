@@ -4,6 +4,27 @@
 
 <html>
 	<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.zoom {
+  padding: 50px;
+  background-color: green;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+</style>
 		<!-- <title> refers to the name that shows up in the website tab -->
 		<title> Alaha's Shakespeare Edition - In Collaboration with EN 4722's group 3</title>
 		<meta charset="utf-8" />
@@ -26,17 +47,18 @@
   
 		<p><b>Alaha Husseinzadah</b> is a member of EN 4722's group 3 editing group.<p>
 	  <p> On this site she is learning the (male dominated) art of coding!</p>
-		
-		<center><img src="img2.png" alt="Alaha's Shakespeare portrait" style= width:50%;length:50%/></center>
-		
-		<div class="gallerycontainer">
 
-<a class="thumbnail" href="#thumb">Ship 1<span><img src="http://insurancecommissionrefund.com/testwebsite/wp-content/uploads/2012/04/AccomodationWorkBoats_2.jpg" /></span></a>
 
-<br />
+</head>
+<body>
 
-<a class="thumbnail" href="#thumb">Ship 2<span><img src="http://insurancecommissionrefund.com/testwebsite/wp-content/uploads/2012/04/AccomodationWorkBoats_3.jpg" /></span></a>
+<h1>Zoom on Hover</h1>
+<p>Hover over the div element.</p>
+  
+<div class="zoom"></div>
 
+</body>
+</html>
 </div>
 		
 		<a href="#">Droeshout<img src="img17.png" /></a>

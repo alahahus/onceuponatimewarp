@@ -1,29 +1,29 @@
 
 @font-face {
-  font-family: OpenDyslexic;
+  font-family: 'opendyslexic';
   src: url(sansation_light.woff);
 }
 
 h1 {
-text-align:left; color:#000000; font-weight:700; font-family: OpenDyslexic; font-size:2.5em;
+text-align:left; color:#000000; font-weight:700; font-family: 'opendyslexic'; font-size:2.5em;
 }
 
 h2 {
-text-align: left; color:#000000; font-family: OpenDyslexic; font-size:1.75em;
+text-align: left; color:#000000; font-family: 'opendyslexic'; font-size:1.75em;
 }
 
 h3 {
-text-align: left; color:black; font-family: OpenDyslexic; font-size:1.25em;
+text-align: left; color:black; font-family: 'opendyslexic'; font-size:1.25em;
 }
 
 body {
-margin-left:10%; margin-right:10%; font-family: OpenDyslexic; 
+margin-left:10%; margin-right:10%; font-family: 'opendyslexic'; 
 background-color:#ffffff;
 background-repeat:no-repeat;
 }
 
 #menu {
-color:#000000; font-family: OpenDyslexic; margin-top:2%; text-align:center; display:inline;
+color:#000000; font-family: 'opendyslexic'; margin-top:2%; text-align:center; display:inline;
 }
 
 th {

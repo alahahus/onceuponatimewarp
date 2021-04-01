@@ -5,25 +5,25 @@
 }
 
 h1 {
-text-align:left; color:#363630; font-weight:700; font-family: Segoe UI; font-size:2.5em;
+text-align:left; color:#363630; font-weight:700; font-family: Arial; font-size:2.5em;
 }
 
 h2 {
-text-align: left; color:#75756a; font-family: Segoe UI; font-size:1.75em;
+text-align: left; color:#75756a; font-family: Arial; font-size:1.75em;
 }
 
 h3 {
-text-align: left; color:black; font-family: Segoe UI; font-size:1.25em;
+text-align: left; color:black; font-family: Arial; font-size:1.25em;
 }
 
 body {
-margin-left:10%; margin-right:10%; font-family: Segoe UI; 
-background-color:#dbdbc5;
+margin-left:10%; margin-right:10%; font-family: Arial; 
+background-color:#ffffff;
 background-repeat:no-repeat;
 }
 
 #menu {
-color:#75756a; font-family: Arial; margin-top:2%; text-align:center; display:inline;
+color:#0000ff; font-family: Arial; margin-top:2%; text-align:center; display:inline;
 }
 
 th {

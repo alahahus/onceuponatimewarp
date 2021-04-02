@@ -40,15 +40,9 @@ a:link {
 }
 
 a:visited {
-  color: black;
+  color: #0000ff;
   background-color: transparent;
   text-decoration: none;
-}
-
-a:hover {
-  color:#0000ff;
-  background-color: transparent;
-  text-decoration: underline;
 }
 
 a:active {

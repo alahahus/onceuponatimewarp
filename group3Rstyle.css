@@ -54,8 +54,13 @@ a:active {
 .floatright
 {
 float: right;
-width: 10px;
-length: 10px;
+width: 50%;
+length: 50%;
+	text-align:center; 
+	color:#000000;
+	font-weight:700;
+	font-family: Arial;
+	font-size:50%;
 }
 
 .floatleft

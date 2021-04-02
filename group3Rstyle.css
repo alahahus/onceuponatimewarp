@@ -34,13 +34,13 @@ th {
 
 <style>
 a:link {
-  color: black; 
+  color: #0000ff; 
   background-color: transparent; 
   text-decoration: none;
 }
 
 a:visited {
-  color: #0000ff;
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }

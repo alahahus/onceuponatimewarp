@@ -54,15 +54,15 @@ a:active {
 .floatright
 {
 float: right;
-width: 50%;
-length: 50%;
+width: 10px;
+length: 10px;
 }
 
 .floatleft
 {
 float: left;
-width: 50%;
-length: 50%;
+width: 10px;
+length: 10px;
 }
 
 </style>

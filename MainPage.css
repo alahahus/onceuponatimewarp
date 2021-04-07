@@ -11,17 +11,13 @@ text-align:center; color:#FFFFFF; font-weight:700; font-family: Arial; font-size
 }
 
 body {
-  background-image: url('TimeWarpImagery1.jpg');
+  background-image: url('TimeWarpImagery2.1.png');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
 }
 
-body {
-margin-left:10%; margin-right:10%; font-family: Arial; 
-background-color:#ffffff;
-background-repeat:no-repeat;
-}
+
 
 <style>
 a:link {

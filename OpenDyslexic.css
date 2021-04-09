@@ -32,6 +32,14 @@ th {
   text-align: left;
 }
 
+.header-img {
+  width: 100%;
+  height: 400px;
+  background: url('LinesLogo/BannerImage2wLinesFinal.jpg');
+  background-size: cover;
+}
+
+
 
 <style>
 a:link {
@@ -63,13 +71,3 @@ a:active {
 }
 </style>
 
-<style>
-
-.header {
-  padding: 60px;
-  text-align: center;
-  background: url("LinesLogo/BannerImage2wLinesFinal.jpg") repeat;
-  color: white;
-  font-size: 30px;
-}
-</style>

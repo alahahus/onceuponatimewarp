@@ -3,7 +3,10 @@
 
 @font-face {
   font-family: 'opendyslexic';
-	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)');
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-Bold.otf');
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-BoldItalic.otf');
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-Italic.otf');
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-Regular.otf');
 	font-style: normal;
 	font-weight: normal;
 } 

@@ -32,32 +32,6 @@ th {
   text-align: left;
 }
 
-<style>
-a:link {
-  color: black; 
-  background-color: transparent; 
-  text-decoration: none;
-}
-
-a:visited {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color:#0000ff;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: black;
-  background-color: #E5E8E8;
-  text-decoration: none;
-}
-
-/* The side navigation menu */
 .sidenav {
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
@@ -105,5 +79,33 @@ a:active {
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
+
+<style>
+a:link {
+  color: black; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:#0000ff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  background-color: #E5E8E8;
+  text-decoration: none;
+}
+
+/* The side navigation menu */
+
 }
 </style>

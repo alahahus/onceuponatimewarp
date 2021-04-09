@@ -64,16 +64,12 @@ a:active {
 </style>
 
 <style>
-body {
+
+.header {
+  padding: 60px;
+  text-align: center;
   background: url("LinesLogo/BannerImage2wLinesFinal.jpg") repeat;
-}
-#banner {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  width: 100%;
-  height: 200px;
-  z-index: -1;
+  color: white;
+  font-size: 30px;
 }
 </style>

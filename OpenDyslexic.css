@@ -32,6 +32,7 @@ th {
   text-align: left;
 }
 
+/* The side navigation menu */
 .sidenav {
   height: 100%; /* 100% Full-height */
   width: 0; /* 0 width - change this with JavaScript */
@@ -105,7 +106,22 @@ a:active {
   text-decoration: none;
 }
 
-/* The side navigation menu */
 
+
+}
+</style>
+
+<style>
+body {
+  background: url("mybackgroundimage.gif") repeat;
+}
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
 }
 </style>

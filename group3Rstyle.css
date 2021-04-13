@@ -136,6 +136,11 @@ th {
   margin-bottom: 20px;
 }
 
+div.ex1 {
+  overflow: scroll;
+}
+
+
 <style>
 a:link {
   color: black; 

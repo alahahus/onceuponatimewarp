@@ -10,6 +10,9 @@ h1 {
 text-align:center; color:#FFFFFF; font-weight:700; font-family: Arial; font-size:2.5em;
 }
 
+h2 {
+text-align:center; color:#FFFFFF; font-weight:500; font-family: Arial; font-size:1.5em;
+}
 body {
   background-image: url('BannerImage2.2Lines.jpg');
   background-repeat: no-repeat;

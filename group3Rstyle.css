@@ -84,7 +84,7 @@ th {
 }
 
 .wrapper .sidebar ul li:hover{
-  background-color: #594f8d;
+  background-color:  #000066;
 }
     
 .wrapper .sidebar ul li:hover a{
@@ -102,12 +102,12 @@ th {
 .wrapper .sidebar .social_media a{
   display: block;
   width: 40px;
-  background: #594f8d;
+  background: #000000;
   height: 40px;
   line-height: 45px;
   text-align: center;
   margin: 0 5px;
-  color: #bdb8d7;
+  color: #ffffff;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
@@ -120,13 +120,13 @@ th {
 .wrapper .main_content .header{
   padding: 20px;
   background: #fff;
-  color: #717171;
+  color: #000000;
   border-bottom: 1px solid #e0e4e8;
 }
 
 .wrapper .main_content .info{
   margin: 20px;
-  color: #717171;
+  color: #000000;
   line-height: 25px;
 }
 

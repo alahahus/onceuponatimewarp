@@ -45,6 +45,7 @@ th {
   list-style: none;
   text-decoration: none;
   font-family: 'Tahoma', 'Verdana', sans-serif;
+  overflow: scroll;
 }
 
 .wrapper{
@@ -134,11 +135,6 @@ th {
 .wrapper .main_content .info div{
   margin-bottom: 20px;
 }
-
-div.ex1 {
-  overflow: scroll;
-}
-
 
 <style>
 a:link {

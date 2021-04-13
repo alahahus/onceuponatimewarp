@@ -19,7 +19,7 @@ h3 {
 text-align: left; color:black; font-family: Arial; font-size:1.25em;
 }
 
-
+--------Sidebar--------
 body {
   background-image: colour:#FFFFFF;
   background-repeat: no-repeat;
@@ -133,6 +133,7 @@ th {
 .wrapper .main_content .info div{
   margin-bottom: 20px;
 }
+-------Sidebar------
 <style>
 a:link {
   color: black; 
@@ -152,6 +153,7 @@ a:active {
   text-decoration: none;
 }
 
+---- Teampage Float right----
 .floatright
 {
 float: right;
@@ -163,6 +165,7 @@ length: 50%;
 	font-family: Arial;
 	font-size:50%;
 }
+----Teampage Float right-----
 
 </style>
 

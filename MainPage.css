@@ -24,11 +24,7 @@
 	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-BoldItalic.otf');
 	font-weight: bold;
 	font-style: italic;
-} 
 
-@font-face {
-	font-family: eulexia;
-	src: url('http://dyslexicfonts.com/fonts/eulexia.ttf');
 } 
 
 
@@ -38,6 +34,10 @@ text-align:center; color:#000000; font-weight:700; font-family: 'opendyslexic'; 
 
 h2 {
 text-align:center; color:#000000; font-weight:500; font-family: 'opendyslexic'; font-size:1.5em;
+}
+
+h2 {
+text-align:center; color:#000000; font-weight:250; font-family: 'opendyslexic'; font-size:1em;
 }
 body {
   background-image: url('BannerImage2.2Lines.jpg');

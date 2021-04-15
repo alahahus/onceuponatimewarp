@@ -42,4 +42,20 @@ a:active {
   text-decoration: none;
 }
 
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+} 
+
+div.d {
+  text-align: justify;
+} 
+
 </style>

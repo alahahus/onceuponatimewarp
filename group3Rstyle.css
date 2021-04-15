@@ -64,7 +64,7 @@ th {
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
-  font-family: 'Tahoma', 'Verdana', sans-serif;
+  font-family: 'opendyslexic' 'Tahoma', 'Verdana', sans-serif;
   overflow: scroll;
 }
 
@@ -184,7 +184,7 @@ length: 50%;
 	text-align:center; 
 	color:#000000;
 	font-weight:700;
-	font-family: Arial;
+	font-family: opendyslexic;
 	font-size:50%;
 }
 

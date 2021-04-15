@@ -1,24 +1,44 @@
-
-
-@font-face p {
-font-family: Tahoma, Verdana, sans-serif;
+@font-face {
+  font-family: 'opendyslexic';
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-Regular.otf');
 	font-style: normal;
 	font-weight: normal;
-	}
+} 
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-Italic.otf');
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-Bold.otf');
+	font-weight: bold;
+	font-style: normal;
+} 
+
+@font-face {
+	font-family: 'opendyslexic';
+	src: url('OpenDyslexic2 (Windows, MacOS, Linux OTF)/OpenDyslexic-BoldItalic.otf');
+	font-weight: bold;
+	font-style: italic;
+
+} 
 
 
 h1 {
-text-align:center; color:#000000; font-weight:700; font-family: Arial; font-size:2.5em; line-height: normal; overflow: hidden;
+text-align:center; color:#000000; font-weight:700; font-family: 'opendyslexic'; font-size:2.5em;
 }
 
 h2 {
-text-align: left; color:#000000; font-family: Arial; font-size:1.75em;
+text-align:center; color:#000000; font-weight:500; font-family: 'opendyslexic'; font-size:1.5em;
 }
 
 h3 {
-text-align: left; color:black; font-family: Arial; font-size:1.25em;
+text-align:center; color:#000000; font-weight:250; font-family: 'opendyslexic'; font-size:1em;
 }
-
 
 body {
   background-image: colour:#FFFFFF;

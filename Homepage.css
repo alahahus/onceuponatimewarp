@@ -206,12 +206,10 @@ div.d {
 
 </style>
 
-
 body {
+overflow: hidden; /* Hide scrollbars */
  <!-- src: https://subtlepatterns.com/?p=1045 -->
  background: url('dark_geometric.png');
-  overflow: hidden; /* Hide scrollbars */
-
 }
  
 #container {
@@ -228,21 +226,21 @@ header {
 
 header h1 {
 	text-align: center;
-	font: 100 60px/1.5 'opendyslexic';
+	font: 100 60px/1.5 Helvetica, Verdana, sans-serif;
 	
 }
 
 header p {
-	font: 100 15px/1.5 'opendyslexic';
+	font: 100 15px/1.5 Helvetica, Verdana, sans-serif;
 	text-align: justify;
 }
 
 /*photobanner*/
 
 .photobanner {
-	height: 100%;
-	width: 100%;
-	margin-bottom: 0px;
+	height: 220px;
+	width: 8640px;
+	margin-bottom: 80px;
 }
 /*keyframe animations*/
 .first {
@@ -303,17 +301,17 @@ header p {
 
 }
 .photobanner {
-	height: 100%;
-	width: 100%;
-	margin-bottom: 0px;
+	height: 242px;
+	width: 8640px;
+	margin-bottom: 80px;
 }
 
 .photobanner img {
-	-webkit-transition: all 10s ease;
-	-moz-transition: all 10s ease;
-	-o-transition: all 10s ease;
-	-ms-transition: all 10s ease;
-	transition: all 10s ease;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
 }
 
 .photobanner img:hover {

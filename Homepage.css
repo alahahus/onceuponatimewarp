@@ -244,11 +244,11 @@ header p {
 }
 /*keyframe animations*/
 .first {
-	-webkit-animation: bannermove 50s linear infinite;
-	   -moz-animation: bannermove 50s linear infinite;
-	    -ms-animation: bannermove 50s linear infinite;
-	     -o-animation: bannermove 50s linear infinite;
-	        animation: bannermove 50s linear infinite;
+	-webkit-animation: bannermove 60s linear infinite;
+	   -moz-animation: bannermove 60s linear infinite;
+	    -ms-animation: bannermove 60s linear infinite;
+	     -o-animation: bannermove 60s linear infinite;
+	        animation: bannermove 60s linear infinite;
 }
 
 @keyframes "bannermove" {
@@ -316,8 +316,8 @@ header p {
 
 .photobanner img:hover {
 	-webkit-transform: scale(1.1);
-	-moz-transform: scale(1.1);
-	-o-transform: scale(1.1);
+	-moz-transform: scale(1.5);
+	-o-transform: scale(2.1);
 	-ms-transform: scale(1.1);
 	transform: scale(1.1);
 	cursor: pointer;

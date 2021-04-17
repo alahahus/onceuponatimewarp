@@ -238,8 +238,8 @@ header p {
 /*photobanner*/
 
 .photobanner {
-	height: 300px;
-	width: 900px;
+	height: 70%;
+	width: 100%;
 	margin-bottom: 80px;
 }
 /*keyframe animations*/
@@ -301,8 +301,8 @@ header p {
 
 }
 .photobanner {
-	height: 300px;
-	width: 900px;
+	height: 70%;
+	width: 100%;
 	margin-bottom: 80px;
 }
 

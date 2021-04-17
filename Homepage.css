@@ -238,7 +238,7 @@ header p {
 /*photobanner*/
 
 .photobanner {
-	height: 70%;
+	height: 100%;
 	width: 100%;
 	margin-bottom: 80px;
 }
@@ -301,7 +301,7 @@ header p {
 
 }
 .photobanner {
-	height: 70%;
+	height: 100%;
 	width: 100%;
 	margin-bottom: 80px;
 }

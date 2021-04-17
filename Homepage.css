@@ -210,6 +210,8 @@ div.d {
 body {
  <!-- src: https://subtlepatterns.com/?p=1045 -->
  background: url('dark_geometric.png');
+  overflow: hidden; /* Hide scrollbars */
+
 }
  
 #container {

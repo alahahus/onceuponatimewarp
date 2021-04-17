@@ -226,19 +226,19 @@ header {
 
 header h1 {
 	text-align: center;
-	font: 100 60px/1.5 Helvetica, Verdana, sans-serif;
+	font: 100 60px/1.5 'opendyslexic';
 	
 }
 
 header p {
-	font: 100 15px/1.5 Helvetica, Verdana, sans-serif;
+	font: 100 15px/1.5 'opendyslexic';
 	text-align: justify;
 }
 
 /*photobanner*/
 
 .photobanner {
-	height: 220px;
+	height: 1000px;
 	width: 8640px;
 	margin-bottom: 80px;
 }
@@ -301,17 +301,17 @@ header p {
 
 }
 .photobanner {
-	height: 242px;
+	height: 1000px;
 	width: 8640px;
 	margin-bottom: 80px;
 }
 
 .photobanner img {
-	-webkit-transition: all 1s ease;
-	-moz-transition: all 1s ease;
-	-o-transition: all 1s ease;
-	-ms-transition: all 1s ease;
-	transition: all 1s ease;
+	-webkit-transition: all 10s ease;
+	-moz-transition: all 10s ease;
+	-o-transition: all 10s ease;
+	-ms-transition: all 10s ease;
+	transition: all 10s ease;
 }
 
 .photobanner img:hover {
